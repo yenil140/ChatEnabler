@@ -1,0 +1,12 @@
+-- Made by ArasOfficial#8439
+
+game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Chat, true)
+game.Players.LocalPlayer.PlayerGui.Chat.Enabled = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.ChatBar.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.MessageMode.Visible = true
+game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame.BoxFrame.Frame.TextLabel.Visible = true
